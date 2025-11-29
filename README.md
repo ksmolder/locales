@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository has been migrated to [Codeberg](https://codeberg.org/smeulski/locales)
+
 # locales
 This project contains non-official locale definitions for Linux.
 
